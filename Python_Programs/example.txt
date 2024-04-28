@@ -1,0 +1,3 @@
+hello everyone how are you
+what is your name 
+you are learn python for data science 
